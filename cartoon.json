@@ -1,17 +1,52 @@
 [
     {
-        "id": 1,
-        "title": "Watch Kingdom of the Planet of the Apes",
-        "year": "2024",
-        "count": "Australia",
+        "title": "Kimi no Na wa.",
+        "year": "2016",
+        "count": "Japan",
         "genre": [
-            "Action",
-            "Adventure"
+            "Dramas",
+            "Romance",
+            "School"
         ],
-        "category": "film",
-        "cardImg": "https://images.justwatch.com/poster/314299423/s592/kingdom-of-the-planet-of-the-apes",
-        "slaydImg": "https://assetsio.reedpopcdn.com/MV5BNDcxM2RiOWMtMGEzMC00NDEyLTgzMjEtOWZjYzVhN2E2ZjcyXkEyXkFqcGdeQXVyMTkxNjUyNQ%40%40._V1_FMjpg_UX1000_.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
-        "videoUrl": "https://dzen.ru/embed/vzSABq7CKoEg?",
-        "summary": "The new Apes movie is set many years after the conclusion of 2017 s War for the Planet of the Apes. Many apes societies have grown from when the Moses-like Caesar brought his people to an oasis, while humans have been reduced to a feral-like existence. Some ape groups have never heard of Caesar, while others have contorted his teaching to build burgeoning empires. In this setting, one ape leader begins to enslave other groups to find human technology, while another ape, who watched his clan be taken, embarks on a journey to find freedom. A young human woman becomes key to the latters quest, although she has plans of her own."
+        "category": "cartoon",
+        "cardImg": "https://i.pinimg.com/474x/7a/db/6d/7adb6dc23a6a661944c16f6447afe3de.jpg",
+        "slaydImg": "https://thenorwichradical.com/wp-content/uploads/2017/02/kimi-no-na-wa-cover-daf-min.jpg?w=918",
+        "videoUrl": "https://dzen.ru/embed/vDOw2fCYsFns?",
+        "summary": "The action in the anime Your Name will take place in two cities. The main characters are a couple of ordinary people who do not even suspect that soon fate will connect their lives very firmly. They have never been acquainted, she is a favorite daughter who devotes her free time to work in the temple. He is a reliable friend, successful and hard-working at work, has not bad tasks of a talented artist. Her life is calm and measured in a small provincial town, while he lives in a huge metropolis, full of turmoil and constant escapism.\r\nMitsuha Miyamizu and Taki Tachibana have never met each other, and yet one strange event binds them together. One day in a dream they switch bodies and it's unclear how to control this process. This begins to repeat more and more often, which will create a lot of problems in the lives of our heroes, because waking up every day in someone else's bed in someone else's house is not very pleasant. But what is the reason for such unusual metamorphosis? This is what the main characters will have to figure out.",
+        "id": 1
+    },
+    {
+        "title": "Koe no Katachi",
+        "year": "2016",
+        "count": "Japan",
+        "genre": [
+            "Dramas",
+            "Romance",
+            "School"
+        ],
+        "category": "cartoon",
+        "cardImg": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/y/g/y/medium-butcutnw14941-koe-no-katachi-a-silent-voice-anime-movie-original-imaggvwhjaapnnrm.jpeg?q=90&crop=false",
+        "slaydImg": "https://myhotposters.com/cdn/shop/products/mL0546_1024x1024.jpg?v=1571444846",
+        "videoUrl": "https://dzen.ru/embed/vCy3whnHe4WU?",
+        "summary": "Everyone can make mistakes, but not everyone can realize it, then they feel shame. The plot of this anime tells the story of a boy Shoya Ishida and a girl Shoko Nishimiya. The girl has had hearing problems since childhood, and she had to suffer a lot because of it. The narrative starts at school, with their acquaintance, little Shoko is transferred to Shoya. She is initially disliked by most people, due to the fact that she was different from the others. He then makes the decision to ruin her life and bullies her.\r\nThe frequent bullying of young Shoko gets to a scary point, the guys just shamed her everywhere, made fun of her and made her cry all the time. One day, Shoya goes out of line, randomly, he hurts her right ear, after which the girl stops hearing them. She can no longer tolerate and moves to another city, the culprit begins a strong psychological disorder, feels a strong sense of guilt. And so in high school they meet. He realizes that this is a chance to correct the past between them.",
+        "id": 2
+    },
+    {
+        "title": "Nakitai Watashi wa Neko wo Kaburu",
+        "year": "2020",
+        "count": "Japan",
+        "genre": [
+            "Comedy",
+            "Dramas",
+            "Fantasy",
+            "Romance",
+            "School"
+        ],
+        "category": "cartoon",
+        "cardImg": "https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/oYfqQLGzstUqXgAV9fIQ8HieeAoAOCA3fueo5N~tplv-tej9nj120t-origin.webp",
+        "slaydImg": "https://w0.peakpx.com/wallpaper/656/452/HD-wallpaper-anime-a-whisker-away-kento-hinode-miyo-sasaki-nakitai-watashi-wa-neko-wo-kaburu.jpg",
+        "videoUrl": "https://dzen.ru/embed/vb1g5nR6CPgI?",
+        "summary": "Miyo Sasaki, nicknamed \"Muge\", is an active and bright girl who is head over heels in love with her classmate Kento Hinode. Miyo's attempts to attract his attention fail, but the situation changes when she finds a magical mask that allows her to transform into \"Taro\", the cute white cat that Kento loves so much. The course of events seems tempting, but as time passes, the boundary between the girl and the cat begins to disappear.",
+        "id": 3
     }
 ]
