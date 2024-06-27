@@ -49,7 +49,9 @@
         "category": "cartoon",
         "cardImg": "https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/oYfqQLGzstUqXgAV9fIQ8HieeAoAOCA3fueo5N~tplv-tej9nj120t-origin.webp",
         "slaydImg": "https://w0.peakpx.com/wallpaper/656/452/HD-wallpaper-anime-a-whisker-away-kento-hinode-miyo-sasaki-nakitai-watashi-wa-neko-wo-kaburu.jpg",
-        "videoUrl": "https://dzen.ru/embed/vb1g5nR6CPgI?",
+        "videoUrl": {
+            "Eng":"https://dzen.ru/embed/vb1g5nR6CPgI?"
+        },
         "summary": "Miyo Sasaki, nicknamed \"Muge\", is an active and bright girl who is head over heels in love with her classmate Kento Hinode. Miyo's attempts to attract his attention fail, but the situation changes when she finds a magical mask that allows her to transform into \"Taro\", the cute white cat that Kento loves so much. The course of events seems tempting, but as time passes, the boundary between the girl and the cat begins to disappear.",
         "id": 3
     },
@@ -83,7 +85,9 @@
         "category": "cartoon",
         "cardImg": "https://m.media-amazon.com/images/I/61S7Ws0u7eL._AC_UF1000,1000_QL80_.jpg",
         "slaydImg": "https://i.ytimg.com/vi/DdJXOvtNsCY/maxresdefault.jpg",
-        "videoUrl": "https://dzen.ru/embed/vXNeXvHq-nXo?",
+        "videoUrl": {
+            "Eng":"https://dzen.ru/embed/vXNeXvHq-nXo?"
+        },
         "summary": "High school senior Hodaka Morishima leaves his remote island home and moves to Tokyo, where he immediately squanders all his money and begins to be poor until he finds a job at a dubious occult magazine. And just as he begins his new duties, the weather turns bad and it rains every day. One day on the streets of a crowded and bustling city, Hodaka meets a girl named Hina Amano. Due to some circumstances, Hina and her younger brother live alone, but have a fun and healthy life. She can stop the rain and disperse the clouds.",
         "id": 5
     },
